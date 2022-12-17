@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @spica-jp
-- 👀 I’m interested in $\mathrm{\LaTeX}$ and **image processing**
-- 🌱 I’m currently learning **C**, C++, Python, Ruby, and HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m interested in $\mathrm{\LaTeX}$ and $\mathrm{\TeX}$.
+I’m currently learning **$\mathrm{\LaTeX}$**,**$\mathrm{\TeX}$**,**C**, **C++**, Python, Ruby, and HTML/CSS.
 
-<!---
-spica-jp/spica-jp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spica-jp&layout=compact)](https://github.com/spica-jp/github-readme-stats)
