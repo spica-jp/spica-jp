@@ -7,4 +7,4 @@ I’m currently learning $\mathrm{\LaTeX}$, $\mathrm{\TeX}$, **C**, **C++**, Pyt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spica-jp&layout=compact)](https://github.com/spica-jp/github-readme-stats)
 
 # Detail
-See README-jp.md (in Japanese).
+See [README-jp.md](https://github.com/spica-jp/spica-jp/blob/main/README-jp.md) (in Japanese).
