@@ -1,7 +1,7 @@
 # 私について
 $\mathrm{\LaTeX}$に興味があります。
 
-現在 $\mathrm{\LaTeX}$、 $\mathrm{\TeX}$、**C**、**C++**、Python、Ruby、及びHTML/CSSを勉強しています。
+現在 $\mathrm{\LaTeX}$、 $\mathrm{\TeX}$、expl3、**C**、**C++**、Python、Ruby、及びHTML/CSSを勉強しています。
 
 ## $\mathrm{\LaTeX}$
 レポートやスライドの作成から、授業用資料の作成まで、ほぼ毎日使用しています。
