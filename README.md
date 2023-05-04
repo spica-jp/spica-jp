@@ -1,7 +1,7 @@
 # About Me
 I’m interested in $\mathrm{\LaTeX}$.
 
-I’m currently learning $\mathrm{\LaTeX}$, $\mathrm{\TeX}$, expl3, **C**, **C++**, Python, Ruby, and HTML/CSS.
+I’m currently learning $\mathrm{\LaTeX}$, $\mathrm{\TeX}$, expl3, **C**, **C++**, C#, Python, Ruby, and HTML/CSS.
 
 My field of expertise is **image reconstruction**.
 

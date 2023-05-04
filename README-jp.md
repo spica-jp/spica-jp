@@ -1,7 +1,7 @@
 # 私について
 $\mathrm{\LaTeX}$に興味があります。
 
-現在 $\mathrm{\LaTeX}$、 $\mathrm{\TeX}$、expl3、**C**、**C++**、Python、Ruby、及びHTML/CSSを勉強しています。
+現在 $\mathrm{\LaTeX}$、 $\mathrm{\TeX}$、expl3、**C**、**C++**、C#、Python、Ruby、及びHTML/CSSを勉強しています。
 
 専門は**画像再構成**です。
 
